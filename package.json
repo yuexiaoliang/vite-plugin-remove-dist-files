@@ -1,0 +1,9 @@
+{
+  "name": "vite-plugin-remove-dist-files",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "keywords": ["vite-plugin"],
+  "author": "岳晓亮 <2220124666@qq.com>",
+  "license": "MIT"
+}
